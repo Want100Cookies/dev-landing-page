@@ -1,7 +1,7 @@
 /* Typography */
 
 html {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 @media (min-width: 576px) {
@@ -46,13 +46,14 @@ main {
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
-	font-weight: 600;
+	font-weight: 300;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
-	font-weight: 100;
+	font-weight: 400;
+	font-style: italic;
 }
 
 .icons-social i {
