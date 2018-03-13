@@ -12,19 +12,19 @@ html {
 
 @media (min-width: 768px) {
 	html {
-		font-size: 16px;
+		font-size: 14px;
 	}
 }
 
 @media (min-width: 992px) {
 	html {
-		font-size: 18px;
+		font-size: 16px;
 	}
 }
 
 @media (min-width: 1200px) {
 	html {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 
@@ -47,13 +47,13 @@ main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 300;
+    	letter-spacing: 4px;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 400;
-	font-style: italic;
 }
 
 .icons-social i {
