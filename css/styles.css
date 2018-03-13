@@ -70,3 +70,8 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.logo {
+	max-width: 50%;
+	margin: 20px auto;
+}
